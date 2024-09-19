@@ -134,7 +134,7 @@ dmypy.json
 
 # user defined
 src/*.json
-src/*.csv
+#src/*.csv
 src/*.txt
 src/images/*
 src/state/*
